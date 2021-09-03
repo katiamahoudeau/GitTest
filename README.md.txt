@@ -1,1 +1,6 @@
-This is the new content of the readme
+# GIT WORKSHOP
+This is the git WORKSHOP
+
+##Name
+Katia Mahoudeau
+
